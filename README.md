@@ -1,1 +1,1 @@
-# Блог с авторизацией по email + telegram bot
+# Блог с регистрацией по email + telegram bot
